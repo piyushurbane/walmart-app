@@ -1,0 +1,19 @@
+.content-center{
+  display: flex;
+    justify-content: center;
+}
+
+label{
+  text-align: start;
+}
+
+.btn-group{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fdb7dfab;
+}
+
+td{
+  text-align: center !important;
+}
